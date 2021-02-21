@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="add_button_text">Добавить</string>
+    <string name="remove_button_text">Отчислить</string>
+</resources>

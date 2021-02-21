@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_groups">
+        <item>БПИ-411</item>
+        <item>БИСТ-411</item>
+        <item>Остальных</item>
+        <item>Отчислили</item>
+    </string-array>
+    <string-array name="bpi">
+        <item>несколько</item>
+        <item>студентов</item>
+        <item>еще</item>
+        <item>живы</item>
+    </string-array>
+    <string-array name="bist">
+        <item>одну</item>
+        <item>группу</item>
+        <item>сделали</item>
+        <item>из двух</item>
+    </string-array>
+    <string-array name="not_exist">
+        <item>в этой</item>
+        <item>группе</item>
+        <item>нет</item>
+        <item>студентов</item>
+    </string-array>
+</resources>
